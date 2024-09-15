@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gayuni Basnayake</h1>
-<h3 align="center">I'm an emerging AI engineer passionate about Machine Learning and Robotics. Continuously exploring AI tools and enhancing software development skills through hands-on projects, with upcoming projects focused on further learning and growth.</h3>
+<h2 align="center">Hi I'm Gayuni Basnayake 😇</h2>
+<p align="center">I'm an emerging AI engineer passionate about Machine Learning and Robotics. Continuously exploring AI tools and enhancing software development skills through hands-on projects, with upcoming projects focused on further learning and growth.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gayunibas2001&label=Profile%20views&color=0e75b6&style=flat" alt="gayunibas2001" /> </p>
 
